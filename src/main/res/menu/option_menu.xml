@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Income" android:id="@+id/incomemenu"></item>
+    <item android:title="Add Category" android:id="@+id/addcategory"></item>
+
+</menu>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DailyExpenseManager</string>
+
+    <string-array name="select_category">
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Bill</item>
+        <item>Cloth</item>
+        <item>Education</item>
+        <item>Medical</item>
+        <item>Accessories</item>
+        <item>Donate</item>
+        <item>lend</item>
+
+
+    </string-array>
+
+</resources>
